@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/31411
     wikipedia: http://en.wikipedia.org/wiki/Howard_I._Chapelle
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31179#Fulton-s--Steam-Battery---Blockship-and-Catamaran
 gutenberg_bookshelf: Technology
 gutenberg_issued: '2010-02-04'
 gutenberg_type: Text
